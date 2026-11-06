@@ -9,7 +9,7 @@ Based in Addis Ababa, Ethiopia (UTC+3). I build responsive interfaces, APIs and 
 | Project | What I built | Explore |
 | --- | --- | --- |
 | **Flownexs** | Agency homepage with bold typography, responsive layouts and clear service presentation. | [Case study](https://github.com/Ammang6/flownexs-showcase) · [Live site](https://flownexs.com) |
-| **GS Apartments** | Apartment website project, presenting property information and the visitor experience. | [Project showcase](https://github.com/Ammang6/gs-apartments-showcase) |
+| **GS Apartments (anonymized)** | Apartment booking and headless development case study. | [Project showcase](https://github.com/Ammang6/gs-apartments-showcase) |
 | **Mansen Construction** | Multi-site inventory, tools, procurement, approvals and role-based workflows. | [Case study](https://github.com/Ammang6/mansen-showcase) |
 
 ## My toolkit
@@ -28,3 +28,4 @@ Available for remote development contracts and agency delivery partnerships. I w
 [Email me](mailto:ammanuelgirma015@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ammanuel-girma/) · [Flownexs](https://flownexs.com)
 
 My commercial source repositories remain private. The showcases share project descriptions and public-facing visuals; the contribution graph includes anonymized private activity.
+
